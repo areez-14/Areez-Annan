@@ -86,6 +86,8 @@ I am passionate about problem-solving, software development, and continuously im
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-areezannan141105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areezannan141105)
 
-[![GitHub](https://img.shields.io/badge?label=GitHub&message=areez-14&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/areez-14)
+[![GitHub](https://img.shields.io/github/followers/areez-14?style=for-the-badge&logo=github)](https://github.com/areez-14)
 
-[![LeetCode](https://img.shields.io/badge?label=LeetCode&message=ah-rizz-enen&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ah-rizz-enen)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ah-rizz-enen)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ah-rizz-enen?theme=dark&font=Baloo)
