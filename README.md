@@ -26,7 +26,8 @@ I am passionate about problem-solving, software development, and continuously im
 - Object-Oriented Programming (OOP)
 - Basics of Operating Systems
 - DBMS fundamentals
-
+- CN fundamentals
+  
 **Tools & Technologies**
 - Git & GitHub
 - VS Code
@@ -60,32 +61,19 @@ I am passionate about problem-solving, software development, and continuously im
 
 ## 📂 Projects
 
-### 🔹 Project Name 1
-- Description: Brief explanation of what the project does
-- Tech Stack: C++ / Python / etc.
-- GitHub Repo: [Link](https://github.com/areez-14/project-name)
-
-### 🔹 Project Name 2
-- Description: Brief explanation
-- Tech Stack: ---
-- GitHub Repo: [Link](https://github.com/areez-14/project-name)
 
 ---
 
 ## 🎯 Current Goals
 
 - 🔸 Strengthen DSA and problem-solving skills
-- 🔸 Contribute to open-source projects
-- 🔸 Build real-world software projects
-- 🔸 Prepare for technical interviews
+
 
 ---
 
 ## 📝 Certifications & Achievements
 
-- ✔️ Course / Certification Name
-- ✔️ Coding contest participation
-- ✔️ Academic achievements (if any)
+
 
 ---
 
