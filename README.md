@@ -84,5 +84,9 @@ I am passionate about problem-solving, software development, and continuously im
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-annan14-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/annan14)
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-ah-rizz-enen-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ah-rizz-enen)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-areezannan141105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areezannan141105)
+
+[![GitHub](https://img.shields.io/badge/GitHub-areez-14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areez-14)
 
