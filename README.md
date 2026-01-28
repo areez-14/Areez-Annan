@@ -11,6 +11,7 @@ I am passionate about problem-solving, software development, and continuously im
 - 💼 LinkedIn: [https://www.linkedin.com/in/areezannan141105/](https://www.linkedin.com/in/areezannan141105/)
 - 🧠 LeetCode: [https://leetcode.com/u/ah-rizz-enen/](https://leetcode.com/u/ah-rizz-enen/)
 - 🐙 GitHub: [https://github.com/areez-14/Areez-Annan](https://github.com/areez-14/Areez-Annan)
+- 🔗 HackerRank: https://www.hackerrank.com/annan14
 
 ---
 
@@ -78,3 +79,8 @@ I am passionate about problem-solving, software development, and continuously im
 ---
 
 ⭐ *If you like my work, consider starring my repositories!*  
+
+![HackerRank](https://img.shields.io/badge/HackerRank-annan14-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+![HackerRank Stats](https://github-readme-hackerrank.vercel.app/api/hackerrank?username=annan14)
+
