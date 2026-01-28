@@ -44,17 +44,17 @@ I am passionate about problem-solving, software development, and continuously im
 | ⭐ Total Solved | XX |
 
 🔗 **LeetCode Profile:**  
-👉 https://leetcode.com/your-leetcode-username
+👉 https://leetcode.com/u/ah-rizz-enen/
 
 ---
 
 ## 📈 Coding Activity
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ah-rizz-enen?theme=dark&font=Baloo)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=areez-14&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areez-14&layout=compact&theme=tokyonight)
 
 ---
 
@@ -63,12 +63,12 @@ I am passionate about problem-solving, software development, and continuously im
 ### 🔹 Project Name 1
 - Description: Brief explanation of what the project does
 - Tech Stack: C++ / Python / etc.
-- GitHub Repo: [Link](https://github.com/your-github-username/project-name)
+- GitHub Repo: [Link](https://github.com/areez-14/project-name)
 
 ### 🔹 Project Name 2
 - Description: Brief explanation
 - Tech Stack: ---
-- GitHub Repo: [Link](https://github.com/your-github-username/project-name)
+- GitHub Repo: [Link](https://github.com/areez-14/project-name)
 
 ---
 
@@ -91,8 +91,8 @@ I am passionate about problem-solving, software development, and continuously im
 
 ## 📫 How to Reach Me
 
-📧 Email: your-email@example.com  
-💬 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+📧 Email: areezannan2029@gmail.com 
+💬 LinkedIn: https://www.linkedin.com/in/areezannan141105/
 
 ---
 
