@@ -37,21 +37,14 @@ I am passionate about problem-solving, software development, and continuously im
 
 ## 📊 LeetCode Progress
 
-| Category | Count |
-|--------|-------|
-| 🟢 Easy | XX |
-| 🟡 Medium | XX |
-| 🔴 Hard | XX |
-| ⭐ Total Solved | XX |
+![LeetCode Stats](https://leetcard.jacoblin.cool/ah-rizz-enen?theme=dark&font=Baloo)
 
 🔗 **LeetCode Profile:**  
 👉 https://leetcode.com/u/ah-rizz-enen/
 
 ---
 
-## 📈 Coding Activity
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ah-rizz-enen?theme=dark&font=Baloo)
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=areez-14&show_icons=true&theme=tokyonight)
 
