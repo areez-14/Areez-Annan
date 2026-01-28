@@ -8,9 +8,9 @@ I am passionate about problem-solving, software development, and continuously im
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/areezannan141105/)
-- 🧠 LeetCode: [https://leetcode.com/your-leetcode-username](https://leetcode.com/u/ah-rizz-enen/)
-- 🐙 GitHub: [https://github.com/your-github-username](https://github.com/areez-14/Areez-Annan)
+- 💼 LinkedIn: [https://www.linkedin.com/in/areezannan141105/](https://www.linkedin.com/in/areezannan141105/)
+- 🧠 LeetCode: [https://leetcode.com/u/ah-rizz-enen/](https://leetcode.com/u/ah-rizz-enen/)
+- 🐙 GitHub: [https://github.com/areez-14/Areez-Annan](https://github.com/areez-14/Areez-Annan)
 
 ---
 
