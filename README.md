@@ -8,10 +8,13 @@ I am passionate about problem-solving, software development, and continuously im
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/areezannan141105/](https://www.linkedin.com/in/areezannan141105/)
-- 🧠 LeetCode: [https://leetcode.com/u/ah-rizz-enen/](https://leetcode.com/u/ah-rizz-enen/)
-- 🐙 GitHub: [https://github.com/areez-14/Areez-Annan](https://github.com/areez-14/Areez-Annan)
-- 🔗 HackerRank: https://www.hackerrank.com/annan14
+[![HackerRank](https://img.shields.io/badge/HackerRank-annan14-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/annan14)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-areezannan141105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areezannan141105)
+
+[![GitHub](https://img.shields.io/github/followers/areez-14?style=for-the-badge&logo=github)](https://github.com/areez-14)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ah-rizz-enen)
 
 ---
 
@@ -80,14 +83,3 @@ I am passionate about problem-solving, software development, and continuously im
 
 ⭐ *If you like my work, consider starring my repositories!*  
 
-## 🧠 Competitive Programming Profiles
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-annan14-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/annan14)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-areezannan141105-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areezannan141105)
-
-[![GitHub](https://img.shields.io/github/followers/areez-14?style=for-the-badge&logo=github)](https://github.com/areez-14)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ah-rizz-enen)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ah-rizz-enen?theme=dark&font=Baloo)
