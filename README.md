@@ -77,7 +77,6 @@ I am passionate about problem-solving, software development, and continuously im
 ## 📫 How to Reach Me
 
 📧 Email: areezannan2029@gmail.com 
-💬 LinkedIn: https://www.linkedin.com/in/areezannan141105/
 
 ---
 
